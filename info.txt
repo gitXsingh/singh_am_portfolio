@@ -1,0 +1,32 @@
+Date 2/9/25
+How computer share info to each other using nwtwoking with speical numvber known as ip that is known by sender and reciever(when conncted to internet)
+|ip ->S| data |ip-> R|
+and this ip is provided by isp-internet service provider , when we turn on hte internet - very dynamic
+and the sirtes we have acess - their addreses are stoered by dns
+
+to prevent issues on social media alonf with ip mac is is also sent as ip is dynamic it chages but mac do not chnage 
+
+
+port no: works wioth ip + mac : 16 bit unsigned
+it tells which apps requested for data on a client side which is in 1,0 format
+every wesite has iffernet port number
+
+ip is also public and private
+
+ipv4: 32 bit (0.0.0.0 - 255.255.255.255)
+total addresed can be formed  = 2^32 = 4.3 billion  = 430 cr
+
+ipv6: 128 bit 
+total addresed can be formed  = 2^128 = 340 unid..
+
+mac : 48 bit : hexaecimal , no of mac adres in one device  =  no of ways to tranfer data
+
+
+router used to conncted make connection in differnt lans and combine make internet
+ip ad are globallu not uniue inside a network LAN its uniue outsite the router in another network it can be same 
+but as it is accece throught router's ip so no isuues as router ublically have unique ip
+
+
+noways router  have routiner+switvh+Wireless acess control inside
+
+//local ata tranfers can be done throught mac only no ne of ip \
