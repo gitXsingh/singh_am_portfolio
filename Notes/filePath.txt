@@ -1,0 +1,2 @@
+//absolute path - path from startinf like earth to bakran , actual path
+//relative path - path from current location ex.chd to bhakarnan
