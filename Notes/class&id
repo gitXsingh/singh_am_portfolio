@@ -1,0 +1,7 @@
+class is used to do grouping
+
+tags with same nsame class can we grouped and further
+we can use div class to set propertirs not specific tags
+
+id is specific to some elemnt that works on that tag only
+it will not be repeted unlike class

@@ -1,2 +1,21 @@
-//absolute path - path from startinf like earth to bakran , actual path
-//relative path - path from current location ex.chd to bhakarnan
+relative path - path from current location ex.chd to bhakarnan
+use / or ./to go deep at one step
+and we have go levle up then 
+../file_name -> one level up
+
+absolute path - path from starting like earth to bakran , actual path
+ex C:\Users\DELL\OneDrive\WebDev
+we can also use forward slash hereissues
+
+starts from root directory
+browsers mostly blocks these paths
+
+not widely used in web WebDev due to privacy/security
+
+as if that file from sever during redening on local machine contains 
+some path that in our pc has private file
+and retrive them using some technique caues 
+
+
+
+

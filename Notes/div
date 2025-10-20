@@ -1,0 +1,13 @@
+it is a container tag
+
+to centre any text we use 
+<h1 style="text-align: center;"> hi</h1>
+again and again for each line
+but using dev we create a container and  put h1/h2..etc in it
+<div style="text-align: center;">
+    <h1></h1>
+    <h2></h2>
+    .
+    .
+    .
+</div>

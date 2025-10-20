@@ -1,0 +1,19 @@
+we can directly run tags without error but its not recommneded a;lways usee boiler plate code 
+basic program structure
+
+ex. <dfj>Hi , kese ho</dfj>
+this tag doesnt exist but it still run and cotent will be displayed
+
+
+
+<!DOCTYPE html>-->HTML 5th version
+<html lang="en">--> content primary language
+<head>-->metadata , not displayed
+    <meta charset="UTF-8">-->dict. for binary converion for each letter similar to ascii but contains more letter/symbols/languages
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">--> mobile,pc adaptive display
+    <title>Document</title>--> tab title
+</head>
+<body>-->data that wiil be displayed
+    
+</body>
+</html>

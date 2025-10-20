@@ -1,0 +1,30 @@
+/*external css*/
+
+
+/*class based selector*/
+.second
+{
+    text-align: center;
+}
+.third
+{
+    background-color: rgba(123, 78, 78, 0.618);
+        text-align: center;
+
+}
+/* id/# selector*/
+#first
+{
+    background-color: cadetblue;
+}
+/* tag selector  */
+ body{
+        background-color: rgb(183, 183, 183);
+       /* background-image: url(/HTML/Media/WhatsApp\ Image\ 2025-09-22\ at\ 12.20.38\ PM.jpeg); */
+    }
+/* 
+group based selector
+h2,.second,#first
+{
+
+} */
